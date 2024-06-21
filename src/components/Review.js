@@ -1,4 +1,4 @@
-// src/components/Review.js
+
 import React from 'react';
 
 const review = ({ review }) => {
